@@ -1,0 +1,123 @@
+[
+  {
+    "ID": "PL 01",
+    "PlanName": "Plan 2021",
+    "Mission": "MIS-01",
+    "Date": "16-05-2021",
+    "CreatedBy": "User 1",
+    "Summary": "",
+    "Preview": "",
+    "Approve": "",
+    "Delete": ""
+  },
+  {
+    "ID": "PL 02",
+    "PlanName": "Plan 2011",
+    "Mission": "MIS-02",
+    "Date": "16-05-2021",
+    "CreatedBy": "User 1",
+    "Summary": "",
+    "Preview": "",
+    "Approve": "",
+    "Delete": ""
+  },
+  {
+    "ID": "PL 03",
+    "PlanName": "Plan 2025",
+    "Mission": "MIS-03",
+    "Date": "18-05-2021",
+    "CreatedBy": "User 2",
+    "Summary": "",
+    "Preview": "",
+    "Approve": "",
+    "Delete": ""
+  },
+  {
+    "ID": "PL 04",
+    "PlanName": "Plan 2899",
+    "Mission": "MIS-01",
+    "Date": "19-05-2021",
+    "CreatedBy": "User 3",
+    "Summary": "",
+    "Preview": "",
+    "Approve": "",
+    "Delete": ""
+  },
+  {
+    "ID": "PL 05",
+    "PlanName": "Plan 3773",
+    "Mission": "MIS-03",
+    "Date": "18-05-2021",
+    "CreatedBy": "User 4",
+    "Summary": "",
+    "Preview": "",
+    "Approve": "",
+    "Delete": ""
+  },
+  {
+    "ID": "PL 06",
+    "PlanName": "Plan 4647",
+    "Mission": "MIS-03",
+    "Date": "21-05-2021",
+    "CreatedBy": "User 1",
+    "Summary": "",
+    "Preview": "",
+    "Approve": "",
+    "Delete": ""
+  },
+  {
+    "ID": "PL 07",
+    "PlanName": "Plan 5521",
+    "Mission": "MIS-02",
+    "Date": "22-05-2021",
+    "CreatedBy": "User 4",
+    "Summary": "",
+    "Preview": "",
+    "Approve": "",
+    "Delete": ""
+  },
+  {
+    "ID": "PL 08",
+    "PlanName": "Plan 6395",
+    "Mission": "MIS-01",
+    "Date": "23-05-2021",
+    "CreatedBy": "User 4",
+    "Summary": "",
+    "Preview": "",
+    "Approve": "",
+    "Delete": ""
+  },
+  {
+    "ID": "PL 09",
+    "PlanName": "Plan 7269",
+    "Mission": "MIS-02",
+    "Date": "18-05-2021",
+    "CreatedBy": "User 3",
+    "Summary": "",
+    "Preview": "",
+    "Approve": "",
+    "Delete": ""
+  },
+  {
+    "ID": "PL 10",
+    "PlanName": "Plan 8143",
+    "Mission": "MIS-01",
+    "Date": "25-05-2021",
+    "CreatedBy": "User 1",
+    "Summary": "",
+    "Preview": "",
+    "Approve": "",
+    "Delete": ""
+  },
+  {
+    "ID": "PL 11",
+    "PlanName": "Plan 9017",
+    "Mission": "MIS-03",
+    "Date": "16-05-2021",
+    "CreatedBy": "User 2",
+    "Summary": "",
+    "Preview": "",
+    "Approve": "",
+    "Delete": ""
+  }
+]

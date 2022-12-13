@@ -1,0 +1,1037 @@
+[{
+        "time": 1622424600,
+        "data": [{
+                "airport": "Yelahanka",
+                "outbound": [],
+                "inbound": []
+            },
+            {
+                "airport": "Tambaram",
+                "outbound": [],
+                "inbound": []
+            },
+            {
+                "airport": "Bikaner",
+                "outbound": [],
+                "inbound": []
+            },
+            {
+                "airport": "Pathankot",
+                "outbound": [],
+                "inbound": []
+            },
+            {
+                "airport": "Thoise",
+                "outbound": [],
+                "inbound": []
+            },
+            {
+                "airport": "Leh",
+                "outbound": [],
+                "inbound": []
+            },
+            {
+                "airport": "Awantipur",
+                "outbound": [],
+                "inbound": []
+            }
+        ]
+    },
+    {
+        "time": 1622428200,
+        "data": [{
+                "airport": "Yelahanka",
+                "outbound": [],
+                "inbound": []
+            },
+            {
+                "airport": "Tambaram",
+                "outbound": [{
+                        "airport": "Yelahanka"
+                    },
+                    {
+                        "airport": "Pathankot"
+                    }
+                ],
+                "inbound": []
+            },
+            {
+                "airport": "Bikaner",
+                "outbound": [{
+                    "airport": "Tambaram"
+                }],
+                "inbound": []
+            },
+            {
+                "airport": "Pathankot",
+                "outbound": [{
+                    "airport": "Yelahanka"
+                }],
+                "inbound": []
+            },
+            {
+                "airport": "Thoise",
+                "outbound": [],
+                "inbound": []
+            },
+            {
+                "airport": "Leh",
+                "outbound": [],
+                "inbound": []
+            },
+            {
+                "airport": "Awantipur",
+                "outbound": [],
+                "inbound": []
+            }
+        ]
+    },
+    {
+        "time": 1622431800,
+        "data": [{
+                "airport": "Yelahanka",
+                "outbound": [],
+                "inbound": [{
+                        "airport": "Tambaram"
+                    },
+                    {
+                        "airport": "Pathankot"
+                    }
+                ]
+            },
+            {
+                "airport": "Tambaram",
+                "outbound": [{
+                        "airport": "Awantipur"
+                    },
+                    {
+                        "airport": "Pathankot"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Bikaner"
+                }]
+            },
+            {
+                "airport": "Bikaner",
+                "outbound": [{
+                        "airport": "Pathankot"
+                    },
+                    {
+                        "airport": "Leh"
+                    }
+                ],
+                "inbound": [{
+                        "airport": "Tambaram"
+                    },
+                    {
+                        "airport": "Yelahanka"
+                    }
+                ]
+            },
+            {
+                "airport": "Pathankot",
+                "outbound": [{
+                        "airport": "Awantipur"
+                    },
+                    {
+                        "airport": "Leh"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Tambaram"
+                }]
+            },
+            {
+                "airport": "Thoise",
+                "outbound": [],
+                "inbound": []
+            },
+            {
+                "airport": "Leh",
+                "outbound": [],
+                "inbound": []
+            },
+            {
+                "airport": "Awantipur",
+                "outbound": [],
+                "inbound": []
+            }
+        ]
+    },
+    {
+        "time": 1622435400,
+        "data": [{
+                "airport": "Yelahanka",
+                "outbound": [{
+                        "airport": "Leh"
+                    },
+                    {
+                        "airport": "Thoise"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Pathankot"
+                }]
+            },
+            {
+                "airport": "Tambaram",
+                "outbound": [{
+                        "airport": "Awantipur"
+                    },
+                    {
+                        "airport": "Pathankot"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Bikaner"
+                }]
+            },
+            {
+                "airport": "Bikaner",
+                "outbound": [{
+                        "airport": "Pathankot"
+                    },
+                    {
+                        "airport": "Leh"
+                    }
+                ],
+                "inbound": [{
+                        "airport": "Tambaram"
+                    },
+                    {
+                        "airport": "Yelahanka"
+                    }
+                ]
+            },
+            {
+                "airport": "Pathankot",
+                "outbound": [{
+                        "airport": "Awantipur"
+                    },
+                    {
+                        "airport": "Leh"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Tambaram"
+                }]
+            },
+            {
+                "airport": "Thoise",
+                "outbound": [],
+                "inbound": [{
+                    "airport": "Yelahanka"
+                }]
+            },
+            {
+                "airport": "Leh",
+                "outbound": [],
+                "inbound": [{
+                    "airport": "Yelahanka"
+                }]
+            },
+            {
+                "airport": "Awantipur",
+                "outbound": [],
+                "inbound": []
+            }
+        ]
+    },
+    {
+        "time": 1622439000,
+        "data": [{
+                "airport": "Yelahanka",
+                "outbound": [{
+                        "airport": "Leh"
+                    },
+                    {
+                        "airport": "Thoise"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Pathankot"
+                }]
+            },
+            {
+                "airport": "Tambaram",
+                "outbound": [{
+                        "airport": "Awantipur"
+                    },
+                    {
+                        "airport": "Pathankot"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Bikaner"
+                }]
+            },
+            {
+                "airport": "Bikaner",
+                "outbound": [{
+                        "airport": "Pathankot"
+                    },
+                    {
+                        "airport": "Leh"
+                    }
+                ],
+                "inbound": [{
+                        "airport": "Tambaram"
+                    },
+                    {
+                        "airport": "Yelahanka"
+                    }
+                ]
+            },
+            {
+                "airport": "Pathankot",
+                "outbound": [{
+                        "airport": "Awantipur"
+                    },
+                    {
+                        "airport": "Leh"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Tambaram"
+                }]
+            },
+            {
+                "airport": "Thoise",
+                "outbound": [],
+                "inbound": [{
+                    "airport": "Yelahanka"
+                }]
+            },
+            {
+                "airport": "Leh",
+                "outbound": [],
+                "inbound": [{
+                    "airport": "Yelahanka"
+                }, {
+                    "airport": "Pathankot"
+                }]
+            },
+            {
+                "airport": "Awantipur",
+                "outbound": [],
+                "inbound": [{
+                    "airport": "Pathankot"
+                }]
+            }
+        ]
+    },
+    {
+        "time": 1622442600,
+        "data": [{
+                "airport": "Yelahanka",
+                "outbound": [{
+                        "airport": "Pathankot"
+                    },
+                    {
+                        "airport": "Bikaner"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Tambaram"
+                }]
+            },
+            {
+                "airport": "Tambaram",
+                "outbound": [{
+                        "airport": "Leh"
+                    },
+                    {
+                        "airport": "Bikaner"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Yelahanka"
+                }]
+            },
+            {
+                "airport": "Bikaner",
+                "outbound": [{
+                        "airport": "Awantipur"
+                    },
+                    {
+                        "airport": "Pathankot"
+                    }
+                ],
+                "inbound": [{
+                        "airport": "Leh"
+                    },
+                    {
+                        "airport": "Tambaram"
+                    }
+                ]
+            },
+            {
+                "airport": "Pathankot",
+                "outbound": [{
+                        "airport": "Thoise"
+                    },
+                    {
+                        "airport": "Leh"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Yelahanka"
+                }]
+            },
+            {
+                "airport": "Thoise",
+                "outbound": [],
+                "inbound": [{
+                    "airport": "Awantipur"
+                }]
+            },
+            {
+                "airport": "Leh",
+                "outbound": [{
+                    "airport": "Yelahanka"
+                }],
+                "inbound": [{
+                    "airport": "Bikaner"
+                }, {
+                    "airport": "Yelahanka"
+                }]
+            },
+            {
+                "airport": "Awantipur",
+                "outbound": [{
+                    "airport": "Bikaner"
+                }],
+                "inbound": [{
+                    "airport": "Leh"
+                }]
+            }
+        ]
+    },
+    {
+        "time": 1622446200,
+        "data": [{
+                "airport": "Yelahanka",
+                "outbound": [{
+                        "airport": "Tambaram"
+                    },
+                    {
+                        "airport": "Awantipur"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Leh"
+                }]
+            },
+            {
+                "airport": "Tambaram",
+                "outbound": [{
+                        "airport": "Bikaner"
+                    },
+                    {
+                        "airport": "Thoise"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Yelahanka"
+                }]
+            },
+            {
+                "airport": "Bikaner",
+                "outbound": [{
+                        "airport": "Yelahanka"
+                    },
+                    {
+                        "airport": "Pathankot"
+                    }
+                ],
+                "inbound": [{
+                        "airport": "Awantipur"
+                    },
+                    {
+                        "airport": "Thoise"
+                    }
+                ]
+            },
+            {
+                "airport": "Pathankot",
+                "outbound": [{
+                        "airport": "Tambaram"
+                    },
+                    {
+                        "airport": "Awantipur"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Yelahanka"
+                }]
+            },
+            {
+                "airport": "Thoise",
+                "outbound": [{
+                    "airport": "Yelahanka"
+                }],
+                "inbound": [{
+                    "airport": "Pathankot"
+                }]
+            },
+            {
+                "airport": "Leh",
+                "outbound": [],
+                "inbound": [{
+                    "airport": "Awantipur"
+                }, {
+                    "airport": "Bikaner"
+                }]
+            },
+            {
+                "airport": "Awantipur",
+                "outbound": [],
+                "inbound": [{
+                    "airport": "Thoise"
+                }]
+            }
+        ]
+    },
+    {
+        "time": 1622449800,
+        "data": [{
+                "airport": "Yelahanka",
+                "outbound": [{
+                        "airport": "Bikaner"
+                    },
+                    {
+                        "airport": "Leh"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Tambaram"
+                }]
+            },
+            {
+                "airport": "Tambaram",
+                "outbound": [{
+                        "airport": "Bikaner"
+                    },
+                    {
+                        "airport": "Awantipur"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Yelahanka"
+                }]
+            },
+            {
+                "airport": "Bikaner",
+                "outbound": [{
+                        "airport": "Thoise"
+                    },
+                    {
+                        "airport": "Awantipur"
+                    }
+                ],
+                "inbound": [{
+                        "airport": "Pathankot"
+                    },
+                    {
+                        "airport": "Awantipur"
+                    }
+                ]
+            },
+            {
+                "airport": "Pathankot",
+                "outbound": [{
+                        "airport": "Thoise"
+                    },
+                    {
+                        "airport": "Bikaner"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Yelahanka"
+                }]
+            },
+            {
+                "airport": "Thoise",
+                "outbound": [{
+                    "airport": "Yelahanka"
+                }],
+                "inbound": [{
+                    "airport": "Leh"
+                }]
+            },
+            {
+                "airport": "Leh",
+                "outbound": [],
+                "inbound": [{
+                    "airport": "Bikaner"
+                }, {
+                    "airport": "Awantipur"
+                }]
+            },
+            {
+                "airport": "Awantipur",
+                "outbound": [],
+                "inbound": [{
+                    "airport": "Yelahanka"
+                }]
+            }
+        ]
+    },
+    {
+        "time": 1622453400,
+        "data": [{
+                "airport": "Yelahanka",
+                "outbound": [{
+                        "airport": "Bikaner"
+                    },
+                    {
+                        "airport": "Leh"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Pathankot"
+                }]
+            },
+            {
+                "airport": "Tambaram",
+                "outbound": [{
+                        "airport": "Leh"
+                    },
+                    {
+                        "airport": "Thoise"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Yelahanka"
+                }]
+            },
+            {
+                "airport": "Bikaner",
+                "outbound": [{
+                        "airport": "Tambaram"
+                    },
+                    {
+                        "airport": "Thoise"
+                    }
+                ],
+                "inbound": [{
+                        "airport": "Awantipur"
+                    },
+                    {
+                        "airport": "Leh"
+                    }
+                ]
+            },
+            {
+                "airport": "Pathankot",
+                "outbound": [{
+                        "airport": "Yelahanka"
+                    },
+                    {
+                        "airport": "Awantipur"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Leh"
+                }]
+            },
+            {
+                "airport": "Thoise",
+                "outbound": [{
+                    "airport": "Leh"
+                }],
+                "inbound": [{
+                    "airport": "Pathankot"
+                }]
+            },
+            {
+                "airport": "Leh",
+                "outbound": [{
+                    "airport": "Thoise"
+                }],
+                "inbound": [{
+                    "airport": "Bikaner"
+                }, {
+                    "airport": "Awantipur"
+                }]
+            },
+            {
+                "airport": "Awantipur",
+                "outbound": [{
+                    "airport": "Thoise"
+                }],
+                "inbound": [{
+                    "airport": "Yelahanka"
+                }]
+            }
+        ]
+    },
+    {
+        "time": 1622457000,
+        "data": [{
+                "airport": "Yelahanka",
+                "outbound": [{
+                        "airport": "Leh"
+                    },
+                    {
+                        "airport": "Thoise"
+                    },
+                    {
+                        "airport": "Pathankot"
+                    },
+                    {
+                        "airport": "Bikaner"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Tambaram"
+                }]
+            },
+            {
+                "airport": "Tambaram",
+                "outbound": [{
+                        "airport": "Bikaner"
+                    },
+                    {
+                        "airport": "Awantipur"
+                    }
+                ],
+                "inbound": [{
+                        "airport": "Thoise"
+                    },
+                    {
+                        "airport": "Leh"
+                    }
+                ]
+            },
+            {
+                "airport": "Bikaner",
+                "outbound": [{
+                        "airport": "Awantipur"
+                    },
+                    {
+                        "airport": "Yelahanka"
+                    }
+                ],
+                "inbound": [{
+                        "airport": "Thoise"
+                    },
+                    {
+                        "airport": "Leh"
+                    }
+                ]
+            },
+            {
+                "airport": "Pathankot",
+                "outbound": [{
+                        "airport": "Yelahanka"
+                    },
+                    {
+                        "airport": "Tambaram"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Bikaner"
+                }]
+            },
+            {
+                "airport": "Thoise",
+                "outbound": [{
+                    "airport": "Yelahanka"
+                }, {
+                    "airport": "Bikaner"
+                }],
+                "inbound": [{
+                    "airport": "Awantipur"
+                }]
+            },
+            {
+                "airport": "Leh",
+                "outbound": [{
+                    "airport": "Thoise"
+                }, {
+                    "airport": "Awantipur"
+                }],
+                "inbound": [{
+                    "airport": "Tambaram"
+                }, {
+                    "airport": "Bikaner"
+                }]
+            },
+            {
+                "airport": "Awantipur",
+                "outbound": [{
+                    "airport": "Yelahanka"
+                }],
+                "inbound": [{
+                        "airport": "Bikaner"
+                    },
+                    {
+                        "airport": "Pathankot"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "time": 1622460600,
+        "data": [{
+                "airport": "Yelahanka",
+                "outbound": [{
+                        "airport": "Leh"
+                    },
+                    {
+                        "airport": "Thoise"
+                    },
+                    {
+                        "airport": "Bikaner"
+                    },
+                    {
+                        "airport": "Awantipur"
+                    },
+                    {
+                        "airport": "Tambaram"
+                    }
+                ],
+                "inbound": [{
+                        "airport": "Pathankot"
+                    },
+                    {
+                        "airport": "Tambaram"
+                    },
+                    {
+                        "airport": "Leh"
+                    }
+                ]
+            },
+            {
+                "airport": "Tambaram",
+                "outbound": [{
+                        "airport": "Bikaner"
+                    },
+                    {
+                        "airport": "Awantipur"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Pathankot"
+                }]
+            },
+            {
+                "airport": "Bikaner",
+                "outbound": [{
+                        "airport": "Awantipur"
+                    },
+                    {
+                        "airport": "Thoise"
+                    }
+                ],
+                "inbound": [{
+                        "airport": "Pathankot"
+                    },
+                    {
+                        "airport": "Leh"
+                    }
+                ]
+            },
+            {
+                "airport": "Pathankot",
+                "outbound": [{
+                        "airport": "Thoise"
+                    },
+                    {
+                        "airport": "Bikaner"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Awantipur"
+                }]
+            },
+            {
+                "airport": "Thoise",
+                "outbound": [{
+                    "airport": "Tambaram"
+                }, {
+                    "airport": "Yelahanka"
+                }],
+                "inbound": [{
+                    "airport": "Bikaner"
+                }]
+            },
+            {
+                "airport": "Leh",
+                "outbound": [],
+                "inbound": [{
+                    "airport": "Awantipur"
+                }, {
+                    "airport": "Thoise"
+                }]
+            },
+            {
+                "airport": "Awantipur",
+                "outbound": [{
+                    "airport": "Leh"
+                }, {
+                    "airport": "Thoise"
+                }],
+                "inbound": [{
+                    "airport": "Bikaner"
+                }]
+            }
+        ]
+    },
+    {
+        "time": 1622464200,
+        "data": [{
+                "airport": "Yelahanka",
+                "outbound": [{
+                        "airport": "Bikaner"
+                    },
+                    {
+                        "airport": "Tambaram"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Awantipur"
+                }]
+            },
+            {
+                "airport": "Tambaram",
+                "outbound": [{
+                        "airport": "Leh"
+                    },
+                    {
+                        "airport": "Thoise"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Pathankot"
+                }]
+            },
+            {
+                "airport": "Bikaner",
+                "outbound": [{
+                        "airport": "Awantipur"
+                    },
+                    {
+                        "airport": "Thoise"
+                    }
+                ],
+                "inbound": [{
+                        "airport": "Pathankot"
+
+                    },
+                    {
+                        "airport": "Tambaram"
+                    }
+                ]
+            },
+            {
+                "airport": "Pathankot",
+                "outbound": [{
+                        "airport": "Bikaner"
+                    },
+                    {
+                        "airport": "Yelahanka"
+                    }
+                ],
+                "inbound": [{
+                    "airport": "Awantipur"
+                }]
+            },
+            {
+                "airport": "Thoise",
+                "outbound": [{
+                    "airport": "Awantipur"
+                }, {
+                    "airport": "Leh"
+                }, {
+                    "airport": "Bikaner"
+                }],
+                "inbound": [{
+                        "airport": "Yelahanka"
+                    },
+                    {
+                        "airport": "Tambaram"
+                    }
+                ]
+            },
+            {
+                "airport": "Leh",
+                "outbound": [{
+                    "airport": "Awantipur"
+                }],
+                "inbound": [{
+                    "airport": "Thoise"
+                }, {
+                    "airport": "Tambaram"
+                }]
+            },
+            {
+                "airport": "Awantipur",
+                "outbound": [{
+                    "airport": "Thoise"
+                }, {
+                    "airport": "Leh"
+                }],
+                "inbound": [{
+                    "airport": "Bikaner"
+                }]
+            }
+        ]
+    },
+    {
+        "time": 1622467800,
+        "data": [{
+                "airport": "Yelahanka",
+                "outbound": [],
+                "inbound": []
+            },
+            {
+                "airport": "Tambaram",
+                "outbound": [],
+                "inbound": []
+            },
+            {
+                "airport": "Bikaner",
+                "outbound": [],
+                "inbound": []
+            },
+            {
+                "airport": "Pathankot",
+                "outbound": [],
+                "inbound": [{
+                    "airport": "Tambaram"
+                }]
+            },
+            {
+                "airport": "Thoise",
+                "outbound": [],
+                "inbound": [{
+                    "airport": "Tambaram"
+                }, {
+                    "airport": "Yelahanka"
+                }]
+            },
+            {
+                "airport": "Leh",
+                "outbound": [],
+                "inbound": [{
+                        "airport": "Bikaner"
+                    }, {
+                        "airport": "Pathankot"
+                    },
+                    {
+                        "airport": "Awantipur"
+                    }
+                ]
+            },
+            {
+                "airport": "Awantipur",
+                "outbound": [],
+                "inbound": []
+            }
+        ]
+    }
+]

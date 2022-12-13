@@ -1,0 +1,860 @@
+[
+    [
+        {
+            "name": "C17",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C17",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#7cb5ec"
+        }, {
+            "name": "B777",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B777",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#434348"
+        }, {
+            "name": "C13",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C13",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#90ed7d"
+        }, {
+            "name": "IL76",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "IL76",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f7a35c"
+        },
+        {
+            "name": "C130",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        },
+        {
+            "name": "C130",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#8085e9"
+        },
+        {
+            "name": "B737",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B737",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f15c80"
+        }
+    ],
+    [
+        {
+            "name": "C17",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C17",
+            "data": [0, 1, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#7cb5ec"
+        }, {
+            "name": "B777",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B777",
+            "data": [0, 1, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#434348"
+        }, {
+            "name": "C13",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C13",
+            "data": [0, 0, 1, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#90ed7d"
+        }, {
+            "name": "IL76",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "IL76",
+            "data": [0, 0, 0, 1, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f7a35c"
+        },
+        {
+            "name": "C130",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        },
+        {
+            "name": "C130",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#8085e9"
+        },
+        {
+            "name": "B737",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B737",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f15c80"
+        }
+    ],
+    [
+        {
+            "name": "C17",
+            "data": [1, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C17",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#7cb5ec"
+        }, {
+            "name": "B777",
+            "data": [0, 0, 0, 1, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B777",
+            "data": [0, 0, 1, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#434348"
+        }, {
+            "name": "C13",
+            "data": [0, 1, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C13",
+            "data": [0, 0, 1, 1, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#90ed7d"
+        }, {
+            "name": "IL76",
+            "data": [1, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "IL76",
+            "data": [0, 1, 0, 1, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f7a35c"
+        },
+        {
+            "name": "C130",
+            "data": [0, 0, 1, 0, 0, 0, 0],
+            "stack": "Inbound"
+        },
+        {
+            "name": "C130",
+            "data": [0, 1, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#8085e9"
+        },
+        {
+            "name": "B737",
+            "data": [0, 0, 1, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B737",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f15c80"
+        }
+    ],
+    [
+        {
+            "name": "C17",
+            "data": [0, 1, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C17",
+            "data": [0, 0, 1, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#7cb5ec"
+        }, {
+            "name": "B777",
+            "data": [0, 0, 1, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B777",
+            "data": [1, 0, 1, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#434348"
+        }, {
+            "name": "C13",
+            "data": [0, 0, 1, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C13",
+            "data": [1, 0, 0, 1, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#90ed7d"
+        }, {
+            "name": "IL76",
+            "data": [1, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "IL76",
+            "data": [0, 1, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f7a35c"
+        },
+        {
+            "name": "C130",
+            "data": [0, 0, 0, 1, 0, 1, 0],
+            "stack": "Inbound"
+        },
+        {
+            "name": "C130",
+            "data": [0, 0, 0, 1, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#8085e9"
+        },
+        {
+            "name": "B737",
+            "data": [0, 0, 0, 0, 1, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B737",
+            "data": [0, 1, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f15c80"
+        }
+    ],
+    [
+        {
+            "name": "C17",
+            "data": [1, 0, 0, 1, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C17",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#7cb5ec"
+        }, {
+            "name": "B777",
+            "data": [0, 1, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B777",
+            "data": [1, 0, 0, 1, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#434348"
+        }, {
+            "name": "C13",
+            "data": [0, 0, 1, 0, 0, 0, 1],
+            "stack": "Inbound"
+        }, {
+            "name": "C13",
+            "data": [0, 1, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#90ed7d"
+        }, {
+            "name": "IL76",
+            "data": [0, 0, 0, 0, 0, 1, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "IL76",
+            "data": [0, 1, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f7a35c"
+        },
+        {
+            "name": "C130",
+            "data": [0, 0, 0, 0, 1, 1, 0],
+            "stack": "Inbound"
+        },
+        {
+            "name": "C130",
+            "data": [0, 0, 1, 1, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#8085e9"
+        },
+        {
+            "name": "B737",
+            "data": [0, 0, 1, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B737",
+            "data": [1, 0, 1, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f15c80"
+        }
+    ],
+    [
+        {
+            "name": "C17",
+            "data": [0, 0, 1, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C17",
+            "data": [1, 1, 0, 1, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#7cb5ec"
+        }, {
+            "name": "B777",
+            "data": [0, 0, 1, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B777",
+            "data": [0, 1, 0, 1, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#434348"
+        }, {
+            "name": "C13",
+            "data": [0, 0, 0, 0, 0, 1, 1],
+            "stack": "Inbound"
+        }, {
+            "name": "C13",
+            "data": [1, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#90ed7d"
+        }, {
+            "name": "IL76",
+            "data": [1, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "IL76",
+            "data": [0, 0, 1, 0, 0, 0, 1],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f7a35c"
+        },
+        {
+            "name": "C130",
+            "data": [0, 1, 0, 1, 0, 1, 0],
+            "stack": "Inbound"
+        },
+        {
+            "name": "C130",
+            "data": [0, 0, 1, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#8085e9"
+        },
+        {
+            "name": "B737",
+            "data": [0, 0, 0, 0, 1, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B737",
+            "data": [0, 0, 0, 0, 0, 1, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f15c80"
+        }
+    ],
+    [
+        {
+            "name": "C17",
+            "data": [1, 0, 1, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C17",
+            "data": [0, 1, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#7cb5ec"
+        }, {
+            "name": "B777",
+            "data": [0, 1, 0, 0, 1, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B777",
+            "data": [1, 0, 0, 1, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#434348"
+        }, {
+            "name": "C13",
+            "data": [0, 0, 1, 0, 0, 1, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C13",
+            "data": [1, 0, 1, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#90ed7d"
+        }, {
+            "name": "IL76",
+            "data": [0, 0, 0, 0, 0, 1, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "IL76",
+            "data": [0, 1, 0, 0, 1, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f7a35c"
+        },
+        {
+            "name": "C130",
+            "data": [0, 0, 0, 1, 0, 0, 0],
+            "stack": "Inbound"
+        },
+        {
+            "name": "C130",
+            "data": [0, 0, 1, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#8085e9"
+        },
+        {
+            "name": "B737",
+            "data": [0, 0, 0, 0, 0, 0, 1],
+            "stack": "Inbound"
+        }, {
+            "name": "B737",
+            "data": [0, 0, 0, 1, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f15c80"
+        }
+    ],
+    [
+        {
+            "name": "C17",
+            "data": [1, 0, 1, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C17",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#7cb5ec"
+        }, {
+            "name": "B777",
+            "data": [0, 0, 1, 0, 0, 1, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B777",
+            "data": [1, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#434348"
+        }, {
+            "name": "C13",
+            "data": [0, 0, 0, 1, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C13",
+            "data": [1, 0, 0, 0, 1, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#90ed7d"
+        }, {
+            "name": "IL76",
+            "data": [0, 1, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "IL76",
+            "data": [0, 0, 1, 1, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f7a35c"
+        },
+        {
+            "name": "C130",
+            "data": [0, 0, 0, 0, 0, 1, 0],
+            "stack": "Inbound"
+        },
+        {
+            "name": "C130",
+            "data": [0, 1, 0, 1, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#8085e9"
+        },
+        {
+            "name": "B737",
+            "data": [0, 0, 0, 0, 0, 0, 1],
+            "stack": "Inbound"
+        }, {
+            "name": "B737",
+            "data": [0, 1, 1, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f15c80"
+        }
+    ],
+    [
+        {
+            "name": "C17",
+            "data": [1, 0, 0, 1, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C17",
+            "data": [0, 1, 1, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#7cb5ec"
+        }, {
+            "name": "B777",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B777",
+            "data": [1, 0, 0, 1, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#434348"
+        }, {
+            "name": "C13",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C13",
+            "data": [1, 0, 1, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#90ed7d"
+        }, {
+            "name": "IL76",
+            "data": [0, 1, 0, 0, 0, 0, 1],
+            "stack": "Inbound"
+        }, {
+            "name": "IL76",
+            "data": [0, 0, 0, 1, 0, 1, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f7a35c"
+        },
+        {
+            "name": "C130",
+            "data": [0, 0, 1, 0, 1, 0, 0],
+            "stack": "Inbound"
+        },
+        {
+            "name": "C130",
+            "data": [0, 1, 0, 0, 0, 1, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#8085e9"
+        },
+        {
+            "name": "B737",
+            "data": [0, 0, 1, 0, 0, 1, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B737",
+            "data": [0, 0, 0, 0, 1, 0, 1],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f15c80"
+        }
+    ],
+    [
+        {
+            "name": "C17",
+            "data": [0, 0, 1, 0, 0, 1, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C17",
+            "data": [1, 0, 0, 0, 1, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#7cb5ec"
+        }, {
+            "name": "B777",
+            "data": [0, 0, 1, 0, 0, 1, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B777",
+            "data": [1, 0, 0, 1, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#434348"
+        }, {
+            "name": "C13",
+            "data": [0, 1, 0, 0, 0, 0, 1],
+            "stack": "Inbound"
+        }, {
+            "name": "C13",
+            "data": [1, 0, 1, 0, 1, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#90ed7d"
+        }, {
+            "name": "IL76",
+            "data": [0, 1, 0, 0, 1, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "IL76",
+            "data": [1, 0, 1, 0, 0, 1, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f7a35c"
+        },
+        {
+            "name": "C130",
+            "data": [1, 0, 0, 1, 0, 0, 1],
+            "stack": "Inbound"
+        },
+        {
+            "name": "C130",
+            "data": [0, 1, 0, 0, 0, 1, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#8085e9"
+        },
+        {
+            "name": "B737",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B737",
+            "data": [0, 1, 0, 1, 0, 0, 1],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f15c80"
+        }
+    ],
+    [
+        {
+            "name": "C17",
+            "data": [1, 0, 1, 0, 0, 0, 1],
+            "stack": "Inbound"
+        }, {
+            "name": "C17",
+            "data": [1, 0, 1, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#7cb5ec"
+        }, {
+            "name": "B777",
+            "data": [1, 0, 0, 1, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B777",
+            "data": [1, 0, 0, 0, 1, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#434348"
+        }, {
+            "name": "C13",
+            "data": [0, 0, 1, 0, 0, 1, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C13",
+            "data": [1, 0, 0, 0, 1, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#90ed7d"
+        }, {
+            "name": "IL76",
+            "data": [0, 0, 0, 0, 1, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "IL76",
+            "data": [1, 1, 0, 1, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f7a35c"
+        },
+        {
+            "name": "C130",
+            "data": [0, 1, 0, 0, 0, 1, 0],
+            "stack": "Inbound"
+        },
+        {
+            "name": "C130",
+            "data": [1, 0, 1, 0, 0, 0, 1],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#8085e9"
+        },
+        {
+            "name": "B737",
+            "data": [1, 0, 0, 0, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B737",
+            "data": [0, 1, 0, 1, 0, 0, 1],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f15c80"
+        }
+    ],
+    [
+        {
+            "name": "C17",
+            "data": [0, 0, 0, 1, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C17",
+            "data": [1, 0, 0, 0, 1, 0, 1],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#7cb5ec"
+        }, {
+            "name": "B777",
+            "data": [0, 0, 1, 0, 0, 1, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B777",
+            "data": [1, 0, 0, 0, 1, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#434348"
+        }, {
+            "name": "C13",
+            "data": [1, 0, 0, 1, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C13",
+            "data": [0, 1, 0, 0, 1, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#90ed7d"
+        }, {
+            "name": "IL76",
+            "data": [0, 0, 1, 0, 0, 1, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "IL76",
+            "data": [0, 1, 0, 1, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f7a35c"
+        },
+        {
+            "name": "C130",
+            "data": [0, 1, 0, 0, 1, 0, 0],
+            "stack": "Inbound"
+        },
+        {
+            "name": "C130",
+            "data": [0, 0, 1, 0, 0, 1, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#8085e9"
+        },
+        {
+            "name": "B737",
+            "data": [0, 0, 0, 0, 1, 0, 1],
+            "stack": "Inbound"
+        }, {
+            "name": "B737",
+            "data": [0, 0, 1, 0, 0, 0, 1],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f15c80"
+        }
+    ],
+    [
+        {
+            "name": "C17",
+            "data": [0, 0, 0, 1, 0, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C17",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#7cb5ec"
+        }, {
+            "name": "B777",
+            "data": [0, 0, 0, 0, 1, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B777",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#434348"
+        }, {
+            "name": "C13",
+            "data": [0, 0, 0, 0, 1, 0, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "C13",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#90ed7d"
+        }, {
+            "name": "IL76",
+            "data": [0, 0, 0, 0, 0, 1, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "IL76",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f7a35c"
+        },
+        {
+            "name": "C130",
+            "data": [0, 0, 0, 0, 0, 1, 0],
+            "stack": "Inbound"
+        },
+        {
+            "name": "C130",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#8085e9"
+        },
+        {
+            "name": "B737",
+            "data": [0, 0, 0, 0, 0, 1, 0],
+            "stack": "Inbound"
+        }, {
+            "name": "B737",
+            "data": [0, 0, 0, 0, 0, 0, 0],
+            "stack": "Outbound",
+            "linkedTo": ":previous",
+            "color": "#f15c80"
+        }
+    ]
+]

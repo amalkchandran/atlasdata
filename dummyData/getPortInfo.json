@@ -1,0 +1,45 @@
+{
+    "Yelahanka": {
+        "id": 1,
+        "icao": "VOYK",
+        "name": "Yelahanka AFS",
+        "coordinates": [77.6075, 13.135833]
+    },
+    "Tambaram": {
+        "id": 2,
+        "icao": "VOTX",
+        "name": "Tambaram AFS",
+        "coordinates": [80.1304055, 12.9010840]
+    },
+    "Bikaner": {
+        "id": 3,
+        "icao": "VIBK",
+        "name": "Bikaner Nal Airbase",
+        "coordinates": [73.206944, 28.070556]
+    },
+    "Pathankot": {
+        "id": 4,
+        "icao": "VIPK",
+        "name": "Pathankot AFS",
+        "coordinates": [75.631667, 32.23]
+    },
+    "Thoise": {
+        "id": 5,
+        "icao": "VI57",
+        "name": "Thoise",
+        "coordinates": [77.3916328, 34.6485124]
+    },
+    "Leh": {
+        "id": 6,
+        "icao": "VILH",
+        "name": "Leh Kushok Bakula Rimpochee Airport",
+        "coordinates": [77.546389, 34.135833]
+    },
+    "Awantipur": {
+        "id": 7,
+        "icao": "VIAW",
+        "name": "Awantipur AFS",
+        "coordinates": [74.975556, 33.876389]
+    }
+
+}
